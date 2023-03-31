@@ -4,7 +4,7 @@
       <v-list-item
         prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
         title="Jan Michalcak"
-        subtitle="jan.michalcak@gmail.com"
+        subtitle="jan@michalcak.eu"
         nav
       >
       </v-list-item>
